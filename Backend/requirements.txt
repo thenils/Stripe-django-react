@@ -1,0 +1,6 @@
+Django==3.2
+djangorestframework==3.11.0
+stripe==2.60
+django-cors-headers==3.5.0
+
+
